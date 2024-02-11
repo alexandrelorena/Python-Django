@@ -1,0 +1,4 @@
+pip install django django-bootstrap4 social-auth-app-django
+
+
+https://python-social-auth.readthedocs.io/en/latest/backends/index.html
